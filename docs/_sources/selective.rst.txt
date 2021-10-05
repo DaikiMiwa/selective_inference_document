@@ -1,6 +1,3 @@
-selective\_inference package
-============================
-
 .. toctree::
    :caption: Contents:
    :maxdepth: 2
